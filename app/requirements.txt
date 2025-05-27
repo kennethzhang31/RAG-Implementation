@@ -7,3 +7,4 @@ llama-index-embeddings-ollama
 llama-index-core
 llama-index>=0.12.37
 llama-index-llms-ollama
+streamlit
