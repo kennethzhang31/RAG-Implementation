@@ -36,7 +36,7 @@ rag_implementation/
 1️⃣ Install dependencies (in your virtualenv/conda):
 
 ```bash
-pip install -r requirements.txt
+pip install -r app/requirements.txt
 ```
 
 2️⃣ Ensure sqlite-vec is properly installed
