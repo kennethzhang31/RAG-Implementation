@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+.env/
+*.env
+
+# MacOS files
+.DS_Store
+
+# VSCode settings (optional)
+.vscode/
+
+# Python package management
+*.egg-info/
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Project-specific directories (ignore files in these folders)
+app/docs/
+app/db/
+app/upload_docs/
+
+# Ollama model data (if stored locally)
+ollama_models/
+
+# Log files
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# System files
+Thumbs.db
